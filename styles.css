@@ -2,12 +2,11 @@ h2 {
     color: red;
 }
 
-<<<<<<< HEAD
 p {
     color: darkgray;
-=======
+}
+
 //This is a feature in firstBranch
 p {
     background-color: bisque;
->>>>>>> firstBranch
 }
